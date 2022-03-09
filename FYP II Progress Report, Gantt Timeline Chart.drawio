@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T06:25:09.545Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Nx1RsPwv8jycUAgxCGNl" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T06:33:19.742Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2GUVTj7MTFG-8wSDChdH" version="17.0.0" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
-    <mxGraphModel dx="873" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="785" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="75" value="Question Bank, Data Modelling" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="140" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="140" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="80" value="Question Bank, Frontend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="160" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="85" value="Question Bank, Backend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="180" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="180" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="90" value="Question Bank, Integration" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="200" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="200" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="95" value="Quiz, Frontend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="240" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="240" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="100" value="Quiz, Backend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="260" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="260" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Task Name" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="120" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-289" value="Quiz, Integration" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="280" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="280" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-290" value="Quiz, Data Modelling" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="220" width="300" height="20" as="geometry" />
+          <mxGeometry x="270" y="220" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="67c90442a009f359-291" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="140" width="850" height="20" as="geometry" />
@@ -88,26 +88,26 @@
         <mxCell id="JHcdZS_edr6rCve4g2-p-106" value="Mid 1" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="120" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f_08WI3DNBTXrXyUixLL-102" value="Assignment/Coding Assignment, Data Modelling" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="300" height="20" as="geometry" />
+        <mxCell id="f_08WI3DNBTXrXyUixLL-102" value="Coding&amp;nbsp;Assignment, Data Modelling" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_08WI3DNBTXrXyUixLL-103" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="850" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f_08WI3DNBTXrXyUixLL-104" value="Assignment/Coding Assignment, Frontend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="300" height="20" as="geometry" />
+        <mxCell id="f_08WI3DNBTXrXyUixLL-104" value="Coding Assignment, Frontend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_08WI3DNBTXrXyUixLL-105" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="850" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f_08WI3DNBTXrXyUixLL-106" value="Assignment/Coding Assignment, Backend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="300" height="20" as="geometry" />
+        <mxCell id="f_08WI3DNBTXrXyUixLL-106" value="Coding Assignment, Backend Completion" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_08WI3DNBTXrXyUixLL-107" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="340" width="850" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f_08WI3DNBTXrXyUixLL-108" value="Assignment/Coding Assignment, Integration" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="300" height="20" as="geometry" />
+        <mxCell id="f_08WI3DNBTXrXyUixLL-108" value="Coding Assignment, Integration" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f_08WI3DNBTXrXyUixLL-109" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="850" height="20" as="geometry" />
